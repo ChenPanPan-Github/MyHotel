@@ -1,0 +1,8 @@
+D:\project\MyHotel\MyHotelModel\bin\Debug\MyHotelModel.dll
+D:\project\MyHotel\MyHotelModel\bin\Debug\MyHotelModel.pdb
+D:\project\MyHotel\MyHotelModel\obj\Debug\MyHotelModel.csproj.AssemblyReference.cache
+D:\project\MyHotel\MyHotelModel\obj\Debug\MyHotelModel.csproj.CoreCompileInputs.cache
+D:\project\MyHotel\MyHotelModel\obj\Debug\MyHotelModel.dll
+D:\project\MyHotel\MyHotelModel\obj\Debug\MyHotelModel.pdb
+D:\project\MyHotel\MyHotelModel\bin\Debug\SqlSugar.dll
+D:\project\MyHotel\MyHotelModel\obj\Debug\MyHotelModel.csproj.CopyComplete
